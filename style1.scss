@@ -1,5 +1,5 @@
 $u: 1.25;
-$d: 14em;
+$d: 17em;
 $p: .5em;
 $o: 1.25em;
 $l: 6px;
@@ -54,6 +54,14 @@ article {
 		pointer-events: none;
 		content: ''
 	}
+
+    h3{
+        font-size: 40px;
+    }
+
+    p{
+        font-size: 30px;
+    }
 }
 
 h3 {
