@@ -87,15 +87,15 @@ a{
 .portada{
     border-radius: 50%;
 }
-
-.box{
-    margin: 2%;
-    text-align: center;
-
-}
 .return{
     text-align: center;
     background-color:rgb(29, 29, 97);
     color: white;
     font-size: 50px;
 }
+.box{
+    margin: 2%;
+    text-align: center;
+
+}
+
