@@ -87,6 +87,11 @@ a{
 .portada{
     border-radius: 50%;
 }
+
+.fotos{
+    width: 100%;
+    border-radius: 10%;
+}
 .return{
     text-align: center;
     background-color:rgb(29, 29, 97);
