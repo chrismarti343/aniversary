@@ -66,3 +66,10 @@ a{
     text-align: center;
 }
 
+.portada-imagen{
+    padding:2%;
+}
+
+.portada{
+    border-radius: 50%;
+}
