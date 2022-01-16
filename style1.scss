@@ -24,8 +24,6 @@ body {
 	padding: $p;
 	min-height: 100vh;
 	background: #ACDCDD;
-	
-	@media (min-width: $u*(2*$d + 2*$p + $o)) { --ang: 85deg }
 }
 
 article {

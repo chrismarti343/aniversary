@@ -34,12 +34,6 @@ body {
   background: #ACDCDD;
 }
 
-@media (min-width: 37.8125em) {
-  body {
-    --ang: 85deg ;
-  }
-}
-
 article {
   --c: #ffa940;
   --s0: calc(1.25em + 6px);
