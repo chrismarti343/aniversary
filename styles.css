@@ -1,5 +1,5 @@
 body {
-    background-color: #7FFFD4;
+    background-color: #ACDCDD ;
 }
 
 .title {
@@ -9,12 +9,12 @@ body {
     text-align: center;
     line-height: 1.4;
     color: rgb(29, 29, 97);
+    margin:0%
   }
 
   .container{
     width: 310px;
-	margin: 50px auto;
-      
+	margin: 50px auto;   
   }
 
   ul{
@@ -23,6 +23,10 @@ body {
     
   }
 
+.titles{
+    padding-bottom:10%;
+}
+
 .menu{
     list-style-type:none;
     background-color:  #2980B9 ;
@@ -30,6 +34,10 @@ body {
     border-bottom: 2px solid black;
     text-align: center;
     padding-top: 5%;
+    font-family: 'Lobster', cursive;
+    font-weight: bold;
+    font-size: 30px;
+   
 }
 
 .menu-last{
@@ -38,6 +46,9 @@ body {
     padding: 2%;
     text-align: center;
     padding-top: 5%;
+    font-family: 'Lobster', cursive;
+    font-weight: bold;
+    font-size: 30px;
   
 }
 
@@ -49,5 +60,9 @@ a{
     color: white;
     padding: 3%;
     
+}
+
+.text-center{
+    text-align: center;
 }
 
