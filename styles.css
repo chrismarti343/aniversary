@@ -1,0 +1,53 @@
+body {
+    background-color: #7FFFD4;
+}
+
+.title {
+    font-family: 'Pacifico';
+    font-weight: norma;
+    font-size: 40px;
+    text-align: center;
+    line-height: 1.4;
+    color: rgb(29, 29, 97);
+  }
+
+  .container{
+    width: 310px;
+	margin: 50px auto;
+      
+  }
+
+  ul{
+    background-color:  #2980B9 ;
+    padding: 0;
+    
+  }
+
+.menu{
+    list-style-type:none;
+    background-color:  #2980B9 ;
+    padding: 2%;
+    border-bottom: 2px solid black;
+    text-align: center;
+    padding-top: 5%;
+}
+
+.menu-last{
+    list-style-type:none;
+    background-color:  #2980B9 ;
+    padding: 2%;
+    text-align: center;
+    padding-top: 5%;
+  
+}
+
+
+
+a{
+    list-style: none; 
+    text-decoration: none;  
+    color: white;
+    padding: 3%;
+    
+}
+
