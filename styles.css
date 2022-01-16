@@ -92,10 +92,15 @@ a{
     background-color:rgb(29, 29, 97);
     color: white;
     font-size: 50px;
+    height: 100%;
 }
 
 .video{
     margin:1%;
+}
+
+.lyrics{
+    text-align: center;
 }
 
 
